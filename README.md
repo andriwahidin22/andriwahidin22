@@ -13,7 +13,7 @@ I'm passionate about technology, especially web development, and always excited 
 
 - **Languages & Tools:** HTML, CSS, JavaScript, Bootstrap, Java, MySQL, CodeIgniter 4  
 - **Concepts:** CRUD, Two-Tier Architecture  
-- **Others:** Microsoft Office, basic mobile app development
+- **Others:** basic mobile app development
 
 ## Certifications
 
