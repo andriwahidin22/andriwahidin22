@@ -2,7 +2,7 @@
 
 I'm a 6th-semester Informatics Management student at **Politeknik Negeri Lampung**, passionate about tech and always eager to learn more in the world of web development.
 
-## 💡 About Me
+## About Me
 
 I'm a Fullstack Developer with experience building a **web-based information system for pencak silat championships**, including registration and match scoring features.
 
