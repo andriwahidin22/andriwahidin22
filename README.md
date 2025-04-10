@@ -12,7 +12,6 @@ I'm passionate about technology, especially web development, and always excited 
 ## Tech Stack
 
 - **Languages & Tools:** HTML, CSS, JavaScript, Bootstrap, Java, MySQL, CodeIgniter 4  
-- **Concepts:** CRUD, Two-Tier Architecture  
 - **Others:** basic mobile app development
 
 ## Certifications
