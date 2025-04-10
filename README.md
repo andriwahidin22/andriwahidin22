@@ -26,9 +26,9 @@ Outside of coding, I’m active in student organizations where I’ve taken role
 - Strengthening system design and database optimization
 
 ## 📫 Let’s Connect
-
-Feel free to reach out via email at **andriblack987@gmail.com**  
-Or connect on [https://www.linkedin.com/in/andri-wahidin-38b259275/](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/andri_wahidin22/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andri-wahidin-38b259275/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andriblack987@gmail.com)
 
 ---
 
