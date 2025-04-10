@@ -28,7 +28,7 @@ Outside of coding, I’m active in student organizations where I’ve taken role
 ## 📫 Let’s Connect
 
 Feel free to reach out via email at **andriblack987@gmail.com**  
-Or connect on [LinkedIn](#) *(ganti dengan link asli jika ada)*
+Or connect on [https://www.linkedin.com/in/andri-wahidin-38b259275/](#)
 
 ---
 
