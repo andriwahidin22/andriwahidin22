@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Andri Wahidin!
 
-<!--
-**andriwahidin22/andriwahidin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 5th-semester Informatics Management student at **Politeknik Negeri Lampung**, passionate about tech and always eager to learn more in the world of web development.
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Fullstack Developer with experience building a **web-based information system for pencak silat championships**, including registration and match scoring features.
+
+Outside of coding, I’m active in student organizations where I’ve taken roles as media coordinator, event planner, and even vice president. These experiences helped me grow in communication, leadership, and teamwork.
+
+## 🔧 Tech Stack
+
+- **Languages & Tools:** HTML, CSS, JavaScript, Bootstrap, Java, MySQL, CodeIgniter 4  
+- **Concepts:** CRUD, Two-Tier Architecture  
+- **Others:** Microsoft Office, basic mobile app development
+
+## 📜 Certifications
+
+- Junior Web Programmer – BNSP  
+- Linux Essentials – Cisco Networking Academy  
+
+## 🧠 Currently Learning
+
+- Deepening backend development
+- Exploring modern frontend frameworks
+- Strengthening system design and database optimization
+
+## 📫 Let’s Connect
+
+Feel free to reach out via email at **andriblack987@gmail.com**  
+Or connect on [LinkedIn](#) *(ganti dengan link asli jika ada)*
+
+---
+
+> “Keep learning, keep building, and stay curious.”
