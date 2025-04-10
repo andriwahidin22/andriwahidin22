@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andri Wahidin!
 
-I'm a 5th-semester student majoring in Informatics Management at **Politeknik Negeri Lampung**.  
+I'm a 6th-semester student majoring in Informatics Management at **Politeknik Negeri Lampung**.  
 I'm passionate about technology, especially web development, and always excited to explore new tools and frameworks. I love building useful applications, learning through real projects, and collaborating with others to bring ideas to life.
 
 ## Experience
