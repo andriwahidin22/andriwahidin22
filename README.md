@@ -1,12 +1,13 @@
 # 👋 Hi there, I'm Andri Wahidin!
 
-I'm a 6th-semester Informatics Management student at **Politeknik Negeri Lampung**, passionate about tech and always eager to learn more in the world of web development.
+I'm a 5th-semester student majoring in Informatics Management at **Politeknik Negeri Lampung**.  
+I'm passionate about technology, especially web development, and always excited to explore new tools and frameworks. I love building useful applications, learning through real projects, and collaborating with others to bring ideas to life.
 
-## About Me
+## Experience
 
-I'm a Fullstack Developer with experience building a **web-based information system for pencak silat championships**, including registration and match scoring features.
-
-Outside of coding, I’m active in student organizations where I’ve taken roles as media coordinator, event planner, and even vice president. These experiences helped me grow in communication, leadership, and teamwork.
+- Built a **web-based information system** for pencak silat championships, with features for registration and match scoring – as a Fullstack Developer.
+- Certified **Junior Web Programmer** (BNSP) and completed **Linux Essentials** by Cisco Networking Academy.
+- Active in student organizations as Media Coordinator, Vice President, and Event Organizer.
 
 ## Tech Stack
 
