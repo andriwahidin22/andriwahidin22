@@ -7,7 +7,7 @@ I'm passionate about technology, especially web development, and always excited 
 
 - Built a **web-based information system** for pencak silat championships, with features for registration and match scoring – as a Fullstack Developer.
 - Certified **Junior Web Programmer** (BNSP) and completed **Linux Essentials** by Cisco Networking Academy.
-- Active in student organizations as Media Coordinator, Vice President, and Event Organizer.
+- Active in student organizations as Media Coordinator, and Event Organizer.
 
 ## Tech Stack
 
