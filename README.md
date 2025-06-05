@@ -40,7 +40,7 @@ I'm passionate about technology, especially web development, and always excited 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaben011201&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaben011201&layout=compact&theme=vision-friendly-dark)](https://github.com/andriwahidin22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriwahidin22&layout=compact&theme=vision-friendly-dark)](https://github.com/andriwahidin22/github-readme-stats)
 
 ## 📫 Let’s Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/andri_wahidin22/)
