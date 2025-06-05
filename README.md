@@ -5,8 +5,6 @@ I'm passionate about technology, especially web development, and always excited 
 
 ## 🚀 Experience
 
-## 🚀 Experience
-
 - Built a **web-based information system** for pencak silat championships, with features for registration and match scoring – as a Fullstack Developer.
 - Internship at **CV Newus Technology** focused on backend development:
   - Built a simple **CRUD website** using Express.js as a learning project.
