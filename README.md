@@ -56,4 +56,4 @@ I'm passionate about technology, especially web development, and always excited 
 
 ---
 
-> “Keep learning, keep building, and stay curious.”
+> “try new things to get new experiences”
