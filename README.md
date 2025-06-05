@@ -44,6 +44,10 @@ I'm passionate about technology, especially web development, and always excited 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriwahidin22&layout=compact&theme=vision-friendly-dark)](https://github.com/andriwahidin22/github-readme-stats)
 
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=andriwahidin22&style=flat-square&color=blue" alt=""/>
+  </div>
+
 ## 📫 Let’s Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/andri_wahidin22/)
