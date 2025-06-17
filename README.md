@@ -45,7 +45,7 @@ I'm passionate about technology, especially web development, and always excited 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriwahidin22&layout=compact&theme=vision-friendly-dark)](https://github.com/andriwahidin22/github-readme-stats)
 
   <div>
-    <img src="https://komarev.com/ghpvc/?username=andriwahidin22&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=andriwahidin22&style=flat-square&color=Black" alt=""/>
   </div>
 
 ## 📫 Let’s Connect
