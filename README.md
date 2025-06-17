@@ -13,29 +13,21 @@ I'm passionate about technology, especially web development, and always excited 
 - Active in student organizations as Media Coordinator, and Event Organizer.
 
 
-## Certifications
-
-- Junior Web Programmer – BNSP  
-- Linux Essentials – Cisco Networking Academy  
-
 ## Currently Learning
 
 - Deepening backend development
 - Exploring modern frontend frameworks
 - Strengthening system design and database optimization
 
-## My Tech Stack
+## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Development Tools
+| Category       | Technologies                                                                                                                                                                                                 |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) |
+| **Backend**    | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) |
+| **Databases**  | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| **Tools**      | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=dbeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 
 ## My Stash
