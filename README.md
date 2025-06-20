@@ -32,9 +32,12 @@ I'm passionate about technology, especially web development, and always excited 
 
 ## My Stash
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andriwahidin22&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriwahidin22&layout=compact&theme=vision-friendly-dark)](https://github.com/andriwahidin22/github-readme-stats)
+<p align="left">
+<a href="https://github.com/andriwahidin22">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andriwahidin22&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andriwahidin22&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</a>
+</p>
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=andriwahidin22&style=flat-square&color=blue" alt=""/>
